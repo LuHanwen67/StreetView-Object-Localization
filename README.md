@@ -16,3 +16,6 @@ This project provides an automated pipeline to detect specific objects (e.g., be
 
 ## 📖 How it Works
 The script parses camera coordinates from filenames, detects target objects, transforms the view to eliminate spherical distortion, and finally calculates the median depth to triangulate the object's location.
+
+## 📊 Sample Results
+You can find the full processing pipeline results in the `/case` folder.
